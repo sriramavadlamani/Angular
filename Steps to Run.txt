@@ -1,0 +1,8 @@
+Please follow below steps to run the project 
+1.Download and unzip file.
+2.Open "TAL Premium Calculator" folder from VSCode.
+3. open folder in command promt and run npm install .Which will install all related node_modules .
+4.Run npm start and open related URL in browser .
+
+Thanks
+Sriram
